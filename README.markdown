@@ -13,7 +13,7 @@ If the position after the move is outside the lawn, then the mower do not move, 
 orientation and process the next command.
 The cell directly at North of the position (x, y) has for coordinates (x, y+1).
 ### **Input**
-An input file following these rules is given to program the mower:
+An input file following these rules is given to program the mower:  
 ● The first line is the coordinates of the upper-right corner of the lawn, coordinates of
 lower-left corner are supposed to be (0,0)  
 ● Next lines of the file drive all mowers. There are two lines for each mower:  
