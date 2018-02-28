@@ -41,6 +41,6 @@ This output is expected (final positions of mowers):
 
 ### Description
 To avoid collisions between mowers, I assumed that every mower should be removed from the lawn after execution of its command set.  
-Also all input checks are omitted and mower just do nothing in case of unsupported command.  
+Also some input checks are omitted and mower just do nothing in case of unsupported command.  
 To run tests use **npm test** command  
 To run tests case from the challenge use **npm start** command
